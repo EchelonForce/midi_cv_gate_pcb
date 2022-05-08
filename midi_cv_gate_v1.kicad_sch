@@ -5738,14 +5738,8 @@
     (path "/0f6346b2-7658-4e48-966f-3efbd180acd9"
       (reference "J37") (unit 1) (value "Conn_01x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical")
     )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/a6293986-bdf8-48bd-bd5f-add65d1df76b"
-      (reference "J38") (unit 1) (value "DIN-5_180degree") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
-    )
     (path "/01a19697-1787-44f1-b107-b6569570ef96/8b01c596-efc1-4cc1-8f55-b468f6ec366f"
       (reference "J39") (unit 1) (value "MIDI OUT") (footprint "My Stuff:Jack_3.5mm_MJ-355W_Vertical")
-    )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/1842d85e-5c8d-42a8-bb76-7d36d580e11a"
-      (reference "J40") (unit 1) (value "DIN-5_180degree") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/01a19697-1787-44f1-b107-b6569570ef96/3e773ffb-7628-4653-8097-a34ffd73bdaa"
       (reference "J41") (unit 1) (value "MIDI IN") (footprint "My Stuff:Jack_3.5mm_MJ-355W_Vertical")
@@ -5755,18 +5749,6 @@
     )
     (path "/235e4d67-2dd1-410a-b574-ac86a809b649"
       (reference "J43") (unit 1) (value "Conn_01x20") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical")
-    )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/c0d2c489-6e48-4556-9aa8-c4655856fdb2"
-      (reference "JP3") (unit 1) (value "SolderJumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/0a2a45f7-2964-47e4-b592-1425fde2b2b3"
-      (reference "JP4") (unit 1) (value "SolderJumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/eff3db5f-9a84-4ea1-8c28-8da52194ad18"
-      (reference "JP5") (unit 1) (value "SolderJumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/01a19697-1787-44f1-b107-b6569570ef96/4a43befe-7cfc-4112-8afb-98435cc2cdc0"
-      (reference "JP6") (unit 1) (value "SolderJumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/d01d92f1-0fb5-4bf0-a484-f98fa59453de"
       (reference "LOGO1") (unit 1) (value "logo1") (footprint "My Stuff:Logo1")
