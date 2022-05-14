@@ -434,7 +434,7 @@
   (symbol (lib_id "My Stuff:ARDUINO_PRO_MINI_custom_2") (at 119.38 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8bd33289-8d94-4a2b-8a03-7e077f7e4871)
-    (property "Reference" "U28" (id 0) (at 119.38 59.5335 0))
+    (property "Reference" "U122" (id 0) (at 119.38 59.5335 0))
     (property "Value" "ARDUINO_PRO_MINI" (id 1) (at 119.38 62.3086 0))
     (property "Footprint" "My Stuff:MODULE_ARDUINO_PRO_MINI_custom_2" (id 2) (at 98.044 52.832 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
