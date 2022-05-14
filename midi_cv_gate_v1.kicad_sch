@@ -3291,7 +3291,7 @@
     (property "Value" "Conn_01x08" (id 1) (at 63.5 193.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (id 2) (at 68.58 176.53 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 68.58 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 68.58 176.53 0)
@@ -5747,7 +5747,7 @@
       (reference "J33") (unit 1) (value "GATE_P") (footprint "My Stuff:Jack_3.5mm_MJ-355W_Vertical")
     )
     (path "/990f515d-4c7b-464d-a276-c2f3ab1de114"
-      (reference "J34") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
+      (reference "J34") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/b11d063a-dff6-4b5a-8aba-d116b85efc6e"
       (reference "J35") (unit 1) (value "Conn_01x08") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical")
@@ -6412,8 +6412,11 @@
     (path "/e0c84674-31e6-4d06-a99e-e9f0c7d90780/f6dd5bce-5bb9-46a3-8d73-f38d3706a678"
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "My Stuff:SW_PS1024ALRED")
     )
+    (path "/c47bc308-08b7-43ac-902b-762d7bd38681/3b1e74a1-6d79-400b-921d-bca8daacf555"
+      (reference "TP6") (unit 1) (value "QH_1") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
     (path "/c47bc308-08b7-43ac-902b-762d7bd38681/a9987a6c-fb6e-4fe3-b37f-366c5d0b0a30"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+      (reference "TP7") (unit 1) (value "QH2") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/95d1bf8a-86c3-4127-b39f-a83020e3ac99"
       (reference "U1") (unit 1) (value "LM7805_TO220") (footprint "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown")
