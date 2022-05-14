@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Eurorack MIDI 16x16 CV Gate")
+    (date "2022-05-14")
+    (rev "1.0")
+    (company "RobotDialogs")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack3" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 8.89 0)

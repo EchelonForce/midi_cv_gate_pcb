@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Eurorack MIDI 16x16 CV Gate")
+    (date "2022-05-14")
+    (rev "1.0")
+    (company "RobotDialogs")
+  )
+
   (lib_symbols
     (symbol "Device:LED" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (id 0) (at 0 2.54 0)
